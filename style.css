@@ -47,7 +47,7 @@
 
 
 
-.jumbotron{
+.alpha_container{
     width: 80%;
     height: 100%;
     margin: auto;
@@ -104,6 +104,16 @@
     
 
 }
+
+.footer_container{
+    height: 400px;
+    background-color: black;
+}
+
+#foot{
+    height: 80%;
+}
+
 
 
 
