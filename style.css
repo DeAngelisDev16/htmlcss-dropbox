@@ -40,6 +40,10 @@
     border: 1px solid;
 }
 
+#dropbox_logo
+
+
+
 .main_container{
     background-color: red;
     height: 500px;
@@ -90,6 +94,18 @@
     border: 1px solid;
 }
 
+.col-5{
+    width: calc(100% / 12 * 5);
+    height: 100%;
+    background-color: goldenrod;
+    border: 1px solid;
+
+}
+
+
+
+
+
 .company_logo{
     width: 50%;
     height: 50%;
@@ -113,6 +129,11 @@
 #foot{
     height: 80%;
 }
+
+
+
+
+
 
 
 
