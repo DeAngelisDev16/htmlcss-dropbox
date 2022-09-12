@@ -28,6 +28,10 @@
     justify-content: space-between;
 }
 
+.space_around{
+    justify-content: space-around;
+}
+
 .flex_wrap{
     flex-wrap: wrap;
 }
@@ -36,11 +40,20 @@
 
 .header_container{
     height: 50px;
-    background-color: aqua;
     border: 1px solid;
 }
+    
 
-#dropbox_logo
+li{
+    list-style: none;
+    margin: 1rem;
+}
+
+button{
+    padding: 0.3rem 0.6rem;
+}
+
+
 
 
 
@@ -97,14 +110,10 @@
 .col-5{
     width: calc(100% / 12 * 5);
     height: 100%;
-    background-color: goldenrod;
-    border: 1px solid;
+   
+    
 
 }
-
-
-
-
 
 .company_logo{
     width: 50%;
@@ -129,6 +138,10 @@
 #foot{
     height: 80%;
 }
+
+
+
+
 
 
 
