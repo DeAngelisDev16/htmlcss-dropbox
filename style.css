@@ -16,6 +16,14 @@
     display: flex;
 }
 
+.center_x{
+    justify-content: center;
+}
+
+.center_y{
+    align-items: center;
+}
+
 .space_between{
     justify-content: space-between;
 }
@@ -37,6 +45,8 @@
     height: 500px;
 }
 
+
+
 .jumbotron{
     width: 80%;
     height: 100%;
@@ -53,13 +63,13 @@
     
 
 .row1{
-    height: 20%;
+    height: 25%;
     background-color: aqua;
     border: 1px solid;
 }
 
 .row2{
-    height: 60%;
+    height: 50%;
     border: 1px solid;
 }
     
@@ -85,6 +95,16 @@
     height: 50%;
     border: 1px solid;
 }
+
+.faq{
+    width: 70%;
+    height: 80%;
+    background-color: brown;
+   
+    
+
+}
+
 
 
 
