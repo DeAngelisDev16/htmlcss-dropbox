@@ -108,7 +108,7 @@ button{
 }
 
 
-#piano_business{
+.piano_business{
     margin-top: 6rem;
     line-height: 4rem;
 
@@ -260,13 +260,16 @@ h5 ~ p{
     position: relative;
     top: 6rem;
 }
+
+{
+    margin-top: 2rem;
+    
+}
     
 
-
-
-
-
-
+h2 ~ div{
+    margin-top: 3rem;
+}
 
 
 .company_logo{
@@ -275,6 +278,32 @@ h5 ~ p{
     border: 1px solid;
 }
 
+.dropbox_teams{
+    width: 50%;
+    
+}
+
+#bigger_designit{
+    width: 60%;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+
+}
+
+hr ~ p{
+    margin-left: 2.5rem;
+    margin-top: 2rem;
+    
+}
+
+p ~ div{
+    margin-left: 2.5rem;
+    margin-top: 2.5rem;
+
+}
+
+
+
 .faq{
     width: 70%;
     height: 80%;
@@ -282,13 +311,17 @@ h5 ~ p{
 }
 
 .footer_container{
-    height: 400px;
+    
     background-color: black;
 }
 
 #foot{
     height: 80%;
 }
+
+
+
+
 
 
     
