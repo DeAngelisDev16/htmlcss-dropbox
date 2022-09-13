@@ -124,7 +124,7 @@ button{
 
 .section_container{
     width: 70%;
-    height: 1000px ;
+    height: 1100px ;
     margin: auto;
 }
     
@@ -164,6 +164,70 @@ button{
     
 
 }
+
+/* #business-col-region */
+
+.business_content{
+    margin-top: 1rem;
+}
+
+.business_content > h3{
+    margin-left: 1rem;
+}
+
+.business_content > h5{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+h5 ~ p{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.fa-solid{
+    padding-right: 0.3rem;
+
+}
+
+.business_col_button{
+    margin-left: 2.5rem;
+    margin-top: 1.5rem;
+}
+
+.business_col_button ~ p{
+    margin-top: 1rem;
+    margin-left: 2.5rem;
+}
+
+.first_hr{
+    margin-top: 0.5rem;
+}
+
+
+
+
+
+
+.mid_hr{
+    width: 20%;
+    margin-top: 1.5rem;
+    margin-left: 2.5rem;
+}
+
+.mid_hr ~ h5{
+    margin-top: 1.5rem;
+    margin-left: 2.5rem;
+}
+
+
+
+
+
+
+
+
+
 
 .company_logo{
     width: 50%;
