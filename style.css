@@ -88,8 +88,19 @@ button{
 }
 
 #fatturazione{
-    padding-top: 4rem;
+    margin-bottom: 1rem;
 }
+
+
+#piano_business{
+    margin-top: 6rem;
+    line-height: 4rem;
+
+}
+
+
+
+
 
 .icon{
     padding-top: 0.3rem;
@@ -124,14 +135,12 @@ button{
 
 .section_container{
     width: 70%;
-    height: 1100px ;
     margin: auto;
+     
 }
     
 
-.row1{
-    height: 25%;
-}
+
     
     
 
