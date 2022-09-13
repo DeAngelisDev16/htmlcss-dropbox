@@ -99,22 +99,10 @@ button{
 }
 
 
-
-
-
 .icon{
     padding-top: 0.3rem;
+    
 }
-
-
-
-
-
-
-
-
-
-
 
 
 .main_container{
@@ -138,19 +126,6 @@ button{
     margin: auto;
      
 }
-    
-
-
-    
-    
-
-.row2{
-    height: 50%;
-    
-}
-    
-    
-    
 
 .col-3{
     width: calc(100% / 12 * 3);
@@ -170,22 +145,16 @@ button{
 .col-5{
     width: calc(100% / 12 * 5);
     height: 100%;
-   
-    
-
 }
 
-/* #business-col-region */
 
+   
+
+/* #business-col-region */
 
 .business{
     height: 90vh;
 }
-
-
-
-
-
 
 .business_content{
     margin-top: 1rem;
@@ -224,11 +193,6 @@ h5 ~ p{
     margin-top: 0.5rem;
 }
 
-
-
-
-
-
 .mid_hr{
     width: 20%;
     margin-top: 1.5rem;
@@ -240,6 +204,31 @@ h5 ~ p{
     margin-left: 2.5rem;
 }
 
+.richiedi_preventivo{
+    margin-top: 3rem;
+    border: 1px solid;
+}
+
+.contatta_ufficio{
+    margin-top: 1.5rem;
+    
+}
+
+.contatta_ufficio > p{
+    margin: 2.5rem 0;
+}
+
+.contatta_ufficio > h5{
+    margin-top: 1rem;
+}
+
+/* #end-business-col-region */
+
+
+
+
+
+
 .company_logo{
     width: 50%;
     height: 50%;
@@ -250,9 +239,6 @@ h5 ~ p{
     width: 70%;
     height: 80%;
     background-color: brown;
-   
-    
-
 }
 
 .footer_container{
@@ -263,6 +249,44 @@ h5 ~ p{
 #foot{
     height: 80%;
 }
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+    
+
+  
+    
+    
+
+
+
+
+
+
+
+
+
+   
+    
+
+
 
 
 
