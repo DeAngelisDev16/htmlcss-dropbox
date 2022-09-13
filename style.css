@@ -36,6 +36,18 @@
     flex-wrap: wrap;
 }
 
+.margin_row{
+
+    margin-top: 8rem;
+
+}
+
+
+
+
+
+
+
 /* #end_utilities */
 
 .header_container{
@@ -106,7 +118,7 @@ button{
 
 
 .main_container{
-    background-color: red;
+    
     height: 500px;
 }
 
@@ -223,6 +235,22 @@ h5 ~ p{
 }
 
 /* #end-business-col-region */
+
+/* #partners-section-region */
+#partner{
+    width: 60%;
+   
+}
+
+.card_content{
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+
+  
+    
+
+
 
 
 
