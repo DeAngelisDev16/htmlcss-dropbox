@@ -44,6 +44,7 @@
 
 .margin_row_2{
     margin-top: 2.5rem;
+    
 }
 
 
@@ -56,7 +57,7 @@
 
 .header_container{
     height: 50px;
-    border: 1px solid;
+    
 }
     
 
@@ -123,7 +124,12 @@ button{
 
 .main_container{
     
-    height: 500px;
+    height: 60vh;
+}
+
+.smaller_main_container{
+    height: 30vh;
+    background-color: aquamarine;
 }
 
 
@@ -132,14 +138,15 @@ button{
     width: 80%;
     height: 100%;
     margin: auto;
-    background-color: antiquewhite;
-    border: 1px solid;
     position: relative;
+    
+    
 }
 
 .section_container{
     width: 70%;
     margin: auto;
+    height: 100%;
      
 }
 
@@ -261,11 +268,7 @@ h5 ~ p{
     top: 6rem;
 }
 
-{
-    margin-top: 2rem;
-    
-}
-    
+ 
 
 h2 ~ div{
     margin-top: 3rem;
@@ -296,10 +299,12 @@ hr ~ p{
     
 }
 
-p ~ div{
-    margin-left: 2.5rem;
+#morten{
     margin-top: 2.5rem;
-
+    margin-left: 2.5rem;
+}
+.hr_faq{
+    margin-top: 1.5rem;
 }
 
 
@@ -307,7 +312,7 @@ p ~ div{
 .faq{
     width: 70%;
     height: 80%;
-    background-color: brown;
+    
 }
 
 .footer_container{
