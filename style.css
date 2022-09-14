@@ -351,7 +351,7 @@ h2 ~ div{
     width: 50%;
     height: 50%;
     border: 1px solid;
-    background-color: aqua;
+    
 }
 
 .dropbox_teams{
@@ -440,7 +440,45 @@ hr ~ p{
     background-color: #b4d0e7;
 }
 
+.designit{
+    background-color: #C9e48c;
+}
 
+.arizona{
+    background-color: 
+    #4c0906
+   
+}
+
+.florida{
+    background-color: #4199d4;
+}
+
+.topps{
+    background-color: #Fd122a;
+}
+
+.bicycle{
+    background-color: #B10315
+    
+}
+
+.hearst{
+    background-color:  #b4d0e7;
+
+}
+
+.lonely{
+    background-color: #1907b3;
+}
+
+.channel{
+    background-color: #F9dd14;
+}
+
+.bigger_designit{
+    background-color: #F7f9f9;
+}
 
 
 
