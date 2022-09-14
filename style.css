@@ -224,7 +224,7 @@ h2{
 /* #business-col-region */
 
 .business{
-    height: 95vh;
+    
     border: 0.5px solid grey;
 }
 
@@ -265,6 +265,10 @@ h5 ~ p{
     margin-top: 0.5rem;
 }
 
+
+
+
+
 .mid_hr{
     width: 20%;
     margin-top: 1.5rem;
@@ -293,6 +297,14 @@ h5 ~ p{
 .contatta_ufficio > h5{
     margin-top: 1rem;
 }
+
+.icon .fa-building, span{
+    display: flex;
+    justify-content: center;
+}
+
+
+
 
 /* #end-business-col-region */
 
