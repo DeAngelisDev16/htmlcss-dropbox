@@ -71,9 +71,25 @@ li{
     margin: 1rem;
 }
 
+li > a{
+    text-decoration: none;
+    color: black;
+}
+
+
 button{
     padding: 0.3rem 0.6rem;
 }
+
+h1{
+    font-size: 70px;
+}
+
+
+h2{
+    font-size: 36px;
+}
+
 
 #jumbo{
     width: 55%;
@@ -114,9 +130,10 @@ button{
 }
 
 
+
 .piano_business{
     margin-top: 6rem;
-    line-height: 4rem;
+    line-height: 2rem;
 
 }
 
@@ -261,6 +278,17 @@ h5 ~ p{
    
 }
 
+h3 ~ p{
+    margin-top: 1rem;
+}
+
+#trova_partner{
+    margin-top: 2rem;
+}
+
+
+
+
 .card_content{
     margin-top: 3rem;
     margin-left: 4rem;
@@ -369,7 +397,9 @@ hr ~ p{
     background-color: black;
 }
 
-
+.jumbo_color{
+    background-color: #b4d0e7;
+}
 
 
 
