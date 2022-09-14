@@ -175,7 +175,8 @@ h2{
 
 .smaller_main_container{
     height: 30vh;
-    background-color: aquamarine;
+    background-color: #b4d0e7;
+   
 }
 
 
@@ -350,10 +351,12 @@ h2 ~ div{
     width: 50%;
     height: 50%;
     border: 1px solid;
+    background-color: aqua;
 }
 
 .dropbox_teams{
     width: 50%;
+    filter: invert(1) ;
     
 }
 
