@@ -344,7 +344,22 @@ hr ~ p{
     margin-bottom: 1rem;
 
 }
-  
+ 
+.direction_column  a{
+    color: white;
+    text-decoration: none;
+}
+
+#footer_hr{
+    border-color: lightgray;
+    margin-top: 5rem;
+    width: 60%;
+}
+
+#footer_language{
+    margin-top: 2rem;
+    color: lightgrey;
+}
 
 
 
