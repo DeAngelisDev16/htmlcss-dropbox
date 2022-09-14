@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>htmlcss-dropbox</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="style.css">
 </head>
@@ -45,6 +48,7 @@
                 <p>Finalmente tutti i tuoi strumenti, contenuti e <br> collaboratori sono accessibili dallo stesso posto. <br> Dropbox Business è più di uno spazio di <br> archiviazione sicuro; è un modo intelligente e <br> integrato per ottimizzare il flusso di lavoro <br> esistente</p>
                 <button id="free_trial">Inizia la tua prova gratuita</button>
                 <div id="annulla_sottoscrizione">Annulla in qualsiasi momento</div>
+                <i class="fa-solid fa-arrow-down"></i>
 
             </div>
 
@@ -55,10 +59,16 @@
                 <div class="piano_business">
                     <h2>Trova il piano business che fa per te</h2>
                     <div id="fatturazione">
-                        <input type="radio" name="fatturazione" value="fatturazione_mensile">
-                        <label for="fatturazione_mensile">Fatturazione mensile</label>
-                        <input type="radio" name="fatturazione" value="fatturazione_annuale">
-                        <label for="fatturazione_annuale">Fatturazione annuale</label>
+                        <div id="fatturazione_1">
+                            <input type="radio" name="fatturazione" value="fatturazione_mensile">
+                            <label for="fatturazione_mensile">Fatturazione mensile</label>
+
+                        </div>
+                        <div id="fatturazione_2">
+                            <input type="radio" name="fatturazione" value="fatturazione_annuale">
+                            <label for="fatturazione_annuale">Fatturazione annuale</label>
+
+                        </div>
                     </div>
 
                 </div>

@@ -6,6 +6,13 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+
+
 .clearfix::after{
     content: "";
     display: table;
@@ -81,35 +88,45 @@ button{
     padding: 0.3rem 0.6rem;
 }
 
-h1{
-    font-size: 70px;
-}
+
 
 
 h2{
     font-size: 36px;
+    
 }
+
+.fa-arrow-down{
+    position: absolute;
+    top: 90%;
+    left: 15%;
+    font-size: 32px;
+}
+
 
 
 #jumbo{
     width: 55%;
     position: absolute;
-    top: 35%;
-    left: 40%;
+    top: 40%;
+    left: 45%;
 
 }
 
 .alpha_container > h1{
-    font-size: 50px;
+    font-size: 60px;
     position: absolute;
     left: 14%;
     top: 5%;
+    
 }
 
 .alpha_container > p{
     position: absolute;
     top: 40%;
     left: 14%;
+    font-size: 14px;
+    
 }
 
 #free_trial{
@@ -129,10 +146,17 @@ h2{
     margin-bottom: 1rem;
 }
 
+#fatturazione_2, #fatturazione_1{
+    display: inline-block;
+}
+#fatturazione_2{
+    margin-left: 2rem;
+}
+
 
 
 .piano_business{
-    margin-top: 6rem;
+    margin-top: 8rem;
     line-height: 2rem;
 
 }
@@ -200,7 +224,7 @@ h2{
 /* #business-col-region */
 
 .business{
-    height: 90vh;
+    height: 95vh;
     border: 0.5px solid grey;
 }
 
