@@ -88,6 +88,10 @@ button{
     padding: 0.3rem 0.6rem;
 }
 
+.main_button{
+    background-color: #2a74fb;
+    color: white;
+}
 
 
 
@@ -133,6 +137,7 @@ h2{
     position: absolute;
     left: 14%;
     top: 67%;
+    
 
 }
 
@@ -479,6 +484,8 @@ hr ~ p{
 .bigger_designit{
     background-color: #F7f9f9;
 }
+
+
 
 
 
