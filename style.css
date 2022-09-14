@@ -41,7 +41,6 @@
 }
 
 
-
 .margin_row{
 
     margin-top: 8rem;
@@ -130,7 +129,7 @@ button{
 
 .main_container{
     
-    height: 60vh;
+    height: 500px;
 }
 
 .smaller_main_container{
@@ -144,7 +143,7 @@ button{
 
 .alpha_container{
     width: 80%;
-    height: 30vh;
+    height: 100%;
     margin: auto;
     position: relative;
     
@@ -315,6 +314,10 @@ hr ~ p{
     margin-top: 1.5rem;
 }
 
+.hr_faq ~ p{
+    margin-left: 0;
+}
+
 
 
 .faq{
@@ -326,19 +329,32 @@ hr ~ p{
 .footer_container{
     background-color: black;
     height: 50vh;
-    
 }
 
-.direction_column > h3, a{
+.footer_content{
     color: white;
-    text-decoration: none;
-    line-height: 1.8;
-    
+    padding-top: 5rem;
+    line-height: 2;
+
+
 }
 
 .direction_column > h3{
-   
+    font-size: 22px;
+    margin-bottom: 1rem;
+
 }
+  
+
+
+
+/* background-colors */
+
+.black_footer{
+    background-color: black;
+}
+
+
 
 
 
